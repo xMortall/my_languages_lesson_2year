@@ -21,14 +21,12 @@
 - ✅ [Files](#)
 - ✅ [Exceptions](#)
 - ✅ [Date](#)
-
 #### Functions  in C++
 - ✅ [Functions in C++](#)
 - ✅ [Function Parameters in C++](#)
 - ✅ [Function Overloading in C++](#)
 - ✅ [Recursion in C++](#)
-
-- #### ✅ Classes in C++
+#### ✅ Classes in C++
 - ✅ [Data Structures & STL](#)
 - ✅ [Vectors](#)
 - ✅ [List](#)
@@ -38,8 +36,7 @@
 - ✅ [Maps](#)
 - ✅ [Iterators](#)
 - ✅ [Algorithms](#)
-
-- ######## ➡️ C++ Reference
+#### ➡️ C++ Reference
 - ✅ [Reference](#)
 - ✅ [Keywords](#)
 - ✅ [iostream](#)
