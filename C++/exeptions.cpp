@@ -1,5 +1,4 @@
-#include <iostream>
-#include <fstream>
+#include "bibliotecas.h"
 
 using namespace std;
 

@@ -6,9 +6,3 @@
  * @author Emanuel Borges
  * @date 2024
  */
-
-#include <iostream>
-#include <ctime>
-
-
-using namespace std;
