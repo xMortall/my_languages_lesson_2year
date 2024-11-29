@@ -1,6 +1,4 @@
 @echo off
-REM Navegue para o diretório do repositório Git
-cd /d "C:\Caminho\Para\Seu\Repositorio"
 
 REM Obtém a data atual no formato dd/MM/yyyy
 for /f "tokens=2 delims==" %%I in ('wmic os get localdatetime /value ^| find "="') do set "datetime=%%I"
