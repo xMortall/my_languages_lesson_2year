@@ -1,3 +1,14 @@
+/**
+ * @file adivinhaFrases.cpp
+ * @brief Jogo de forca onde o usuário tenta adivinhar uma frase.
+ * @author Emanuel Borges e José Gomes
+ * @date 2025-02-07
+ * 
+ * O programa oculta uma frase e permite ao usuário inserir letras para 
+ * revelar a frase gradualmente. Todas as letras e a frase são convertidas 
+ * para maiúsculas automaticamente.
+ */
+
 #include "bibliotecas.h"
 
 string modificarFrase(const string& frase, char simbolo) {
