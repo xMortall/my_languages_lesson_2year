@@ -7,10 +7,16 @@
  * O programa oculta uma frase e permite ao usuário inserir letras para 
  * revelar a frase gradualmente. Todas as letras e a frase são convertidas 
  * para maiúsculas automaticamente.
+ * 
  */
 
 #include "bibliotecas.h"
 
+
+/**
+*
+* @param modificarFrase ele guarda os valores dentro da funcão e tambem virifica os simbolos
+*/
 string modificarFrase(const string& frase, char simbolo) {
     string fraseComTracos = frase;
 

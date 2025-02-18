@@ -1,0 +1,19 @@
+Começaremos o trabalho do bingo em c++
+Começar por menu:
+    - Clicar 1 abrir jogo
+    - Clicar 2 criar cartões
+    - Clicar 3 sair
+
+Clicar em 1:
+    -Perguntar se quer jogar com 75, 100, 125 de bolas
+    
+Ao escolher:
+    -Jogo ficara a piscar uma bola durante 3s
+    -Trocar a bola a piscar e a anterior ficar a vermelho
+    -Ter duas mensagens com o numero da bola e a bola que saiu anterioramente
+
+Clicar em 2:
+    -Criar cartões txt com numeros aliatorios sem repetir
+
+Clicar 3:
+    -Morrer
