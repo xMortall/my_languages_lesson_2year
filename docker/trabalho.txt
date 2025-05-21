@@ -1,0 +1,10 @@
+1º Saber levantar um db em contexto de micro-servicos
+    1 - saber fazer pull de uma imagem(db)
+    2 - saber levantar container
+    3 - saber preparar/levantar o container
+    -> buscar a imagem ao docker up
+    -> levantar a imagem
+2º fazer 2 scripts
+    1º - backup de uma base de dados que esta no container
+    2ª - restre de uma base de dados
+3º Definir a linha de de cronjob para agendar o servicos de backup num intervalo de tempo proprio
