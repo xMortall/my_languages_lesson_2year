@@ -1,4 +1,4 @@
-#include "bibliotecas.h"
+#include "../bibliotecas.h"
 
 void menasageOnTop(){
     cout << "\t" <<"Dados eletronicos - No ambito do modulo" << endl;

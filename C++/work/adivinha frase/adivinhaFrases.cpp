@@ -10,7 +10,7 @@
  * 
  */
 
-#include "bibliotecas.h"
+#include "../bibliotecas.h"
 
 
 /**

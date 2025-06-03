@@ -11,8 +11,7 @@
  * Usar esse comando : ./backupWork origem.sqlite copia.sqlite
  */
 
-#include <iostream>
-#include <fstream>
+#include "../bibliotecas.h"
 
 using namespace std;
 
